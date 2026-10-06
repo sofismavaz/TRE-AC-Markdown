@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Registro de Ocorrência - TRE-AC</title>
+<style>
+*{box-sizing:border-box}body{margin:0;background:#f3f4f6;color:#1f2937;font-family:Arial,sans-serif}.box{max-width:720px;margin:28px auto;background:#fff;border-radius:10px;padding:24px;box-shadow:0 2px 10px #0001}h1{margin:0 0 5px;color:#142a3f;font-size:24px}p{color:#64748b;margin-top:4px}.row{display:grid;grid-template-columns:1fr 1fr;gap:12px}label{display:block;font-weight:bold;font-size:14px;margin-top:14px}input,select,textarea{margin-top:5px;width:100%;padding:10px;border:1px solid #cbd5e1;border-radius:6px;font:inherit}textarea{min-height:120px;resize:vertical}.naturezas{display:grid;grid-template-columns:1fr 1fr;gap:6px;margin-top:8px}.naturezas label{margin:0;font-weight:normal;border:1px solid #e2e8f0;padding:8px;border-radius:6px}.naturezas input{width:auto;margin:0 6px 0 0}.aviso{background:#fff7ed;border:1px solid #fed7aa;padding:10px;border-radius:7px;font-size:13px;color:#9a3412}.erro{display:none;background:#fef2f2;color:#991b1b;padding:10px;border-radius:6px;margin-top:14px}.confirm{font-weight:normal;display:flex;gap:8px;align-items:flex-start}.confirm input{width:auto;margin-top:3px}button{margin-top:18px;width:100%;padding:12px;border:0;border-radius:7px;background:#142a3f;color:#fff;font-weight:bold;cursor:pointer}.destino{text-align:center;font-size:13px;color:#64748b;margin-top:10px}@media(max-width:600px){.row,.naturezas{grid-template-columns:1fr}.box{margin:0;min-height:100vh;border-radius:0}}</style>
+</head>
+<body>
+<main class="box">
+<h1>Registro de Ocorrência</h1>
+<p>NISIPJ | TRE-AC</p>
+<div class="aviso">Ao enviar, será aberta uma nova mensagem no aplicativo de e-mail padrão do dispositivo, destinada a <strong>4300@tre-ac.jus.br</strong>.</div>
+<form id="form" novalidate>
+<div class="row">
+<label>Comunicante *<input id="comunicante" required></label>
+<label>Unidade<input id="unidade"></label>
+<label>Data *<input id="data" type="date" required></label>
+<label>Hora *<input id="hora" type="time" required></label>
+</div>
+<label>Local da ocorrência *<input id="local" required></label>
+<label>Município *<input id="municipio" required></label>
+<label>Natureza da ocorrência *</label>
+<div class="naturezas" id="naturezas"></div>
+<label>Outra natureza<input id="outra" placeholder="Preencha apenas se necessário"></label>
+<label>Pessoas envolvidas<input id="pessoas" placeholder="Nomes e/ou identificação, se houver"></label>
+<label>Descrição da ocorrência *<textarea id="historico" required placeholder="Descreva objetivamente o que aconteceu"></textarea></label>
+<label>Providências adotadas<textarea id="providencias" placeholder="Informe as providências já adotadas, se houver"></textarea></label>
+<div class="row">
+<label>Criticidade<select id="criticidade"><option>Baixa</option><option>Moderada</option><option>Alta</option><option>Crítica</option></select></label>
+<label>Situação<select id="situacao"><option>Em andamento</option><option>Encaminhada</option><option>Encerrada</option></select></label>
+</div>
+<label>Observações adicionais<textarea id="observacoes"></textarea></label>
+<label class="confirm"><input id="revisado" type="checkbox"> <span>Revisei as informações e confirmo o encaminhamento.</span></label>
+<div id="erro" class="erro"></div>
+<button type="submit">Preparar e-mail</button>
+<div class="destino">Destino: 4300@tre-ac.jus.br</div>
+</form>
+</main>
+<script>
+(function(){
+const DESTINO='4300@tre-ac.jus.br';
+const opcoes=['Acesso não autorizado','Ameaça/agressão','Dano/furto/roubo','Ocorrência com pessoa','Trânsito/deslocamento','CFTV/alarme/controle de acesso','Urna/material eleitoral','Outro'];
+const $=id=>document.getElementById(id), valor=id=>$(id).value.trim();
+$('naturezas').innerHTML=opcoes.map(x=>`<label><input type="checkbox" name="natureza" value="${x}">${x}</label>`).join('');
+const d=new Date(),p=n=>String(n).padStart(2,'0');$('data').value=`${d.getFullYear()}-${p(d.getMonth()+1)}-${p(d.getDate())}`;$('hora').value=`${p(d.getHours())}:${p(d.getMinutes())}`;
+function selecionadas(){return [...document.querySelectorAll('[name=natureza]:checked')].map(x=>x.value)}
+function falha(msg){$('erro').textContent=msg;$('erro').style.display='block';return false}
+$('form').addEventListener('submit',function(e){
+e.preventDefault();$('erro').style.display='none';
+if(!valor('comunicante')||!valor('data')||!valor('hora')||!valor('local')||!valor('municipio')||!valor('historico'))return falha('Preencha todos os campos obrigatórios.');
+if(!selecionadas().length&&!valor('outra'))return falha('Selecione a natureza da ocorrência.');
+if(!$('revisado').checked)return falha('Confirme a revisão das informações.');
+const natureza=selecionadas().join('; ')+(valor('outra')?'; '+valor('outra'):'');
+const assunto=`Ocorrência - ${valor('data')} - ${valor('local')}`;
+const corpo=`REGISTRO DE OCORRÊNCIA - TRE-AC\n\nComunicante: ${valor('comunicante')}\nUnidade: ${valor('unidade')||'Não informada'}\nData: ${valor('data')}\nHora: ${valor('hora')}\nLocal: ${valor('local')}\nMunicípio: ${valor('municipio')}\n\nNatureza: ${natureza}\n\nPessoas envolvidas:\n${valor('pessoas')||'Não informadas'}\n\nDESCRIÇÃO DA OCORRÊNCIA\n${valor('historico')}\n\nPROVIDÊNCIAS ADOTADAS\n${valor('providencias')||'Não informadas'}\n\nCriticidade: ${valor('criticidade')}\nSituação: ${valor('situacao')}\n\nOBSERVAÇÕES\n${valor('observacoes')||'Nenhuma'}`;
+window.location.href=`mailto:${DESTINO}?subject=${encodeURIComponent(assunto)}&body=${encodeURIComponent(corpo)}`;
+});
+})();
+</script>
+</body>
+</html>

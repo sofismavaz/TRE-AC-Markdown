@@ -1,0 +1,57 @@
+{
+"titulo": "BOLETIM DE OCORRÊNCIA DE SEGURANÇA INSTITUCIONAL",
+"origem": "NISIPJ/TRE-AC",
+"destinatario": {
+"nome": "Ocorrência de Segurança",
+"email": "4300@tre-ac.jus.br"
+},
+"identificacao": {
+"nomeComunicanteOuAgente": "Lucir Vaz",
+"dataHoraRegistro": "2026-10-02T09:27",
+"dataHoraOcorrencia": "2026-10-02T09:27",
+"horarioTermino": "2026-10-02T09:27",
+"ambito": "Interna",
+"local": "Sede do Tribunal",
+"endereco": "Alameda Miguel",
+"setor": "Recepção",
+"municipio": "Rio Branco",
+"zonaEleitoral": "1",
+"ordemMissao": "REP-022026",
+"operacao": "Reg-012"
+},
+"naturezaOcorrencia": {
+"principal": "Localização de material",
+"complemento": "desvio"
+},
+"pessoasEnvolvidas": {
+"nomeOuCondicao": "joao Silva",
+"contatoOuVinculoInstitucional": "pedro Silva"
+},
+"historicoDescricaoObjetiva": "Vim-fiz",
+"solicitacaoMotivoResultadoPretendido": "Prentiva",
+"materiaisDanosImagens": {
+"descricao": "Supervisão",
+"identificacaoOuLocalizacao": "local",
+"responsavelRecebimentoOuPreservacao": "herm Silva"
+},
+"providencias": {
+"principal": "Proteção de pessoas",
+"complemento": "retenção",
+"cronologia": "pela manhã",
+"orgaosUnidadesPessoaHorario": "UNID TEB"
+},
+"avaliacao": {
+"criticidadeOperacional": "Baixa",
+"fundamentacaoObjetivaRisco": "Art. 16",
+"situacaoFinal": "Normalizada",
+"destinatarioProvidenciasPendentesResponsavel": "TJ/AC",
+"numeroProcessoSEI": "0001433-54.2026.6.01.8000",
+"numeroBoletimPolicialOuOcorreJE": "1.8000"
+},
+"anexosAssinaturas": {
+"tipoPrincipal": "Fotografias",
+"outrosAnexos": "Func.",
+"relacaoAnexosLocalSeguroArmazenamento": "Relação",
+"demaisAgentesOuMatriculas": "Com d"
+}
+}

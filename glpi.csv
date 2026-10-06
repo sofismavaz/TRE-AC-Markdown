@@ -1,0 +1,115 @@
+﻿"ID";"Título";"Categoria";"Status";"Última atualização";"Data de abertura";"Prioridade";"Requerente - Requerente";"Atribuído para - Técnico";"Tempo para solução";"Atribuído para - Grupo técnico";"Descrição";
+"28 204";"Natureza da ocorrência - Trânsito - Testes de recepção das 14:07";"";"Processando (atribuído)";"02-10-2026 14:11";"02-10-2026 14:09";"Média";"Lucir Rocio Vaz";"";"";"NISIPJ";"{
+''titulo'': ''BOLETIM DE OCORRÊNCIA DE SEGURANÇA INSTITUCIONAL'',
+''origem'': ''NISIPJ/TRE-AC'',
+''destinatario'': {
+''nome'': ''Ocorrência de Segurança'',
+''email'': ''4300@tre-ac.jus.br''
+},
+''identificacao'': {
+''nomeComunicanteOuAgente'': ''Lucir Vaz'',
+''dataHoraRegistro'': ''2026-10-02T09:27'',
+''dataHoraOcorrencia'': ''2026-10-01T12:30'',
+''horarioTermino'': ''2026-10-02T09:27'',
+''ambito'': ''Interna'',
+''local'': ''Sede do Tribunal'',
+''endereco'': ''Alameda Miguel'',
+''setor'': ''Recepção'',
+''municipio'': ''Rio Branco'',
+''zonaEleitoral'': ''1'',
+''ordemMissao'': ''REP-022059'',
+''operacao'': ''Reg-01278''
+},
+''naturezaOcorrencia'': {
+''principal'': ''Trânsito'',
+''complemento'': ''desvio trajeto''
+},
+''pessoasEnvolvidas'': {
+''nomeOuCondicao'': ''Carmem Silva'',
+''contatoOuVinculoInstitucional'': ''Jam Silva''
+},
+''historicoDescricaoObjetiva'': ''Sentido do trânsito na eleição'',
+''solicitacaoMotivoResultadoPretendido'': ''Desvio do trânsito, Entrega de material da eleição, Controle acesso ao pátio cartório.'',
+''materiaisDanosImagens'': {
+''descricao'': ''Cones, cavaletes, fita zebrada.'',
+''identificacaoOuLocalizacao'': ''Alameda Miguel, em frente a Sede.'',
+''responsavelRecebimentoOuPreservacao'': ''herm Silva''
+},
+''providencias'': {
+''principal'': ''Isolamento/preservação'',
+''complemento'': ''marcação de desvios'',
+''cronologia'': ''pela manhã, pela tarde'',
+''orgaosUnidadesPessoaHorario'': ''Companhia de trânsito''
+},
+''avaliacao'': {
+''criticidadeOperacional'': ''Baixa'',
+''fundamentacaoObjetivaRisco'': ''Art. 16 trânsito'',
+''situacaoFinal'': ''Normalizada'',
+''destinatarioProvidenciasPendentesResponsavel'': ''TJ/AC, recomendação, Tomas Silva'',
+''numeroProcessoSEI'': ''0001587-55.2026.6.01.8000'',
+''numeroBoletimPolicialOuOcorreJE'': ''51.8600''
+},
+''anexosAssinaturas'': {
+''tipoPrincipal'': ''Fotografias'',
+''outrosAnexos'': ''Cautelas de cessão'',
+''relacaoAnexosLocalSeguroArmazenamento'': ''Relação objetos'',
+''demaisAgentesOuMatriculas'': ''Dominique Silva''
+}
+} Antes de imprimir, pense no seu compromisso com o meio ambiente. Imprima somente o estritamente necessário.";
+"28 203";"Natureza da ocorrência - Localização de material";"";"Processando (atribuído)";"02-10-2026 13:28";"02-10-2026 11:33";"Média";"Lucir Rocio Vaz";"";"";"NISIPJ";"{
+''titulo'': ''BOLETIM DE OCORRÊNCIA DE SEGURANÇA INSTITUCIONAL'',
+''origem'': ''NISIPJ/TRE-AC'',
+''destinatario'': {
+''nome'': ''Ocorrência de Segurança'',
+''email'': ''4300@tre-ac.jus.br''
+},
+''identificacao'': {
+''nomeComunicanteOuAgente'': ''Lucir Vaz'',
+''dataHoraRegistro'': ''2026-10-02T09:27'',
+''dataHoraOcorrencia'': ''2026-10-02T09:27'',
+''horarioTermino'': ''2026-10-02T09:27'',
+''ambito'': ''Interna'',
+''local'': ''Sede do Tribunal'',
+''endereco'': ''Alameda Miguel'',
+''setor'': ''Recepção'',
+''municipio'': ''Rio Branco'',
+''zonaEleitoral'': ''1'',
+''ordemMissao'': ''REP-022026'',
+''operacao'': ''Reg-012''
+},
+''naturezaOcorrencia'': {
+''principal'': ''Localização de material'',
+''complemento'': ''desvio''
+},
+''pessoasEnvolvidas'': {
+''nomeOuCondicao'': ''joao Silva'',
+''contatoOuVinculoInstitucional'': ''pedro Silva''
+},
+''historicoDescricaoObjetiva'': ''Vim-fiz'',
+''solicitacaoMotivoResultadoPretendido'': ''Prentiva'',
+''materiaisDanosImagens'': {
+''descricao'': ''Supervisão'',
+''identificacaoOuLocalizacao'': ''local'',
+''responsavelRecebimentoOuPreservacao'': ''herm Silva''
+},
+''providencias'': {
+''principal'': ''Proteção de pessoas'',
+''complemento'': ''retenção'',
+''cronologia'': ''pela manhã'',
+''orgaosUnidadesPessoaHorario'': ''UNID TEB''
+},
+''avaliacao'': {
+''criticidadeOperacional'': ''Baixa'',
+''fundamentacaoObjetivaRisco'': ''Art. 16'',
+''situacaoFinal'': ''Normalizada'',
+''destinatarioProvidenciasPendentesResponsavel'': ''TJ/AC'',
+''numeroProcessoSEI'': ''0001433-54.2026.6.01.8000'',
+''numeroBoletimPolicialOuOcorreJE'': ''1.8000''
+},
+''anexosAssinaturas'': {
+''tipoPrincipal'': ''Fotografias'',
+''outrosAnexos'': ''Func.'',
+''relacaoAnexosLocalSeguroArmazenamento'': ''Relação'',
+''demaisAgentesOuMatriculas'': ''Com d''
+}
+} Antes de imprimir, pense no seu compromisso com o meio ambiente. Imprima somente o estritamente necessário.";
