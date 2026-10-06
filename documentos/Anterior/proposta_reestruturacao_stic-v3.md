@@ -4,13 +4,13 @@
 
 A presente proposta tem por objetivo formalizar a reestruturação organizacional da **Secretaria de Tecnologia da Informação (STI)** do Tribunal Regional Eleitoral do Acre (TRE-AC), promovendo sua transição e nova designação para **Secretaria de Tecnologia da Informação e Comunicação (STIC)** [47].
 
-Esta reformulação atende às diretrizes nacionais estabelecidas pelo Conselho Nacional de Justiça (CNJ), em especial a **Resolução CNJ nº 370/2021** (Estratégia Nacional de Tecnologia da Informação e Comunicação do Poder Judiciário – ENTIC-JUD 2021-2026) [1, 6], ao **Plano Estratégico Institucional do TRE-AC (Resolução TRE-AC nº 1.763/2021)** [162] e ao novo **Regimento Interno da Secretaria (Resolução TRE-AC nº 1.808/2025)** [50, 163].
+Esta reformulação buscará atender às diretrizes nacionais estabelecidas pelo Conselho Nacional de Justiça (CNJ), em especial a **Resolução CNJ nº 370/2021** (Estratégia Nacional de Tecnologia da Informação e Comunicação do Poder Judiciário – ENTIC-JUD 2021-2026) [1, 6], ao **Plano Estratégico Institucional do TRE-AC (Resolução TRE-AC nº 1.763/2021)** [162] e ao novo **Regimento Interno da Secretaria (Resolução TRE-AC nº 1.808/2025)** [50, 163].
 
 A reestruturação busca:
 1. **Adequação Normativa e Designação Atualizada**: Renomear e reestruturar a unidade para refletir as competências integradas de TIC e Comunicação Tecnológica [47, 48].
 2. **Redistribuição Funcional por Afinidade**: Agrupar atribuições por similaridade de processos, eliminando superposições e otimizando a força de trabalho [48].
-3. **Integração do Planejamento e Execução Eleitoral**: Absorver as atribuições da *Assessoria de Gestão Eleitoral (AGEL)* – atualmente isolada no âmbito da Diretoria-Geral [167] – e integrá-las organicamente à nova **Coordenadoria de Gestão e Logística de Eleição**, enxugando e reorganizando suas unidades em 2 seções finalísticas de alta afinidade [47, 48].
-4. **Otimização da Infraestrutura Tecnológica**: Unificar as atividades de gestão de data centers, servidores, redes, nuvem e backups com a engenharia e manutenção de hardware em uma única unidade especializada de infraestrutura e serviços [27, 28, 48].
+3. **Integração do Planejamento e Execução Eleitoral**: Absorver as atribuições da *Assessoria de Gestão Eleitoral (AGEL)* – atualmente isolada no âmbito da Diretoria-Geral [167] – e integrá-las organicamente à nova **Coordenadoria de Gestão da Logística e da Eleição**, ampliando o escopo de atuação, para incorporar o conjunto de hardwares utilizados em pleitos eleitorais e reorganizando suas unidades finalísticas por  afinidade [47, 48].
+4. **Otimização das unidades**: agrupando as atividades de gestão de data centers, servidores, redes, nuvem e backups com a engenharia e manutenção de hardware e ambiente de serviços em unidades especializada de infraestrutura, sustentação, serviços, seguranção cibernetica e inovação tecnológica.
 5. **Atendimento aos Macroprocessos Mínimos do CNJ**: Incorporar explicitamente as estruturas de Governança, Planejamento de Contratações, Inteligência de Dados, Cibersegurança, Inovação Tecnológica, Sustentação de Ambientes de Produção, Simulados e Testes Sistêmicos de Eleição [1, 21, 48].
 
 ---
@@ -19,32 +19,24 @@ A reestruturação busca:
 
 A nova arquitetura corporativa da **STIC** é estruturada de forma hierárquica, racionalizada e especializada, codificada conforme a seguinte árvore organizacional [47]:
 
-```
 1. Secretaria de Tecnologia da Informação e Comunicação (STIC)
-   1.01 Gabinete da STIC
-   1.02 Núcleo de Planejamento de TIC
-      1.021 Assistência de Governança de TIC
-      1.022 Assistência de Planejamento e de Contratação
-   1.03 Assessoria de Inteligência de Dados
-   1.2 Coordenadoria de Infraestrutura
-      1.21 Seção de Segurança e Inovação Tecnológica
-      1.22 Seção de Infraestrutura e Serviços
-      1.23 Seção de Suporte aos Usuários
-   1.3 Coordenadoria de Sistemas Corporativos
-      1.31 Seção de Desenvolvimento de Sistemas
-      1.32 Seção de Sustentação e Manutenção Sistêmica
-      1.33 Seção de Sustentação e Banco de Dados
-   1.4 Coordenadoria de Gestão e Logística de Eleição
-      1.41 Seção de Logística, Manutenção e Simulados de Urnas
-      1.42 Seção de Sistemas e Tecnologia Eleitoral
-```
+   1.01 Gabinete da STIC (GSTIC)
+   1.02 Núcleo de Planejamento de TIC (NPTIC)
+      1.021 Assistência de Governança de TIC (AGTIC)
+      1.022 Assistência de Planejamento e de Contratação (APCTIC)
+   1.03 Assessoria de Inteligência de Dados (AIDTIC)
+   1.2 Coordenadoria de Infraestrutura (CIE)
+   1.3 Coordenadoria de Sistemas Corporativos (CSCOR)
+   1.4 Coordenadoria de Gestão da Logística e da Eleição (CGLE)
+  
+* Comissão Permanente de Planejamento e Gestão do Pleito eleitoral 
 
 ---
 
-### 3. MAPEAMENTO DETALHADO E ATRIBUIÇÕES DAS UNIDADES E SUBUNIDADES
+### 3. MAPEAMENTO INICIAL E ATRIBUIÇÕES DAS UNIDADES E SUBUNIDADES
 
 ### 1. Secretaria de Tecnologia da Informação e Comunicação (STIC)
-- **Função Principal**: Unidade de direção superior responsável por planejar, organizar, dirigir e supervisionar as atividades de TIC, logística eleitoral, infraestrutura, segurança da informação e governança [47, 89, 226].
+- **Função Principal**: Unidade de direção superior responsável por planejar, organizar, dirigir e supervisionar as atividades de TIC, logística eleitoral, infraestrutura, segurança da informação e governança [47, 89, 226]. Precipuamente 
 - **Atribuições**:
   - Dirigir a execução da ENTIC-JUD no âmbito do TRE-AC, em alinhamento com a Resolução CNJ nº 370/2021 e orientações do TSE e suas alterações [1, 6, 226].
   - Submeter ao Comitê de Governança de TIC e à Administração Superior o Plano Diretor de TIC (PDTIC), o Plano Anual de Contratações de TIC e o Plano de Continuidade de Serviços [11, 228, 229].
@@ -87,71 +79,101 @@ A nova arquitetura corporativa da **STIC** é estruturada de forma hierárquica,
 
 ---
 
-### 1.2 Coordenadoria de Infraestrutura
-- **Função Principal**: Gestão, coordenação e sustentação unificada da infraestrutura física e lógica, centros de dados, redes corporativas, hardware, cibersegurança e atendimento de suporte aos usuários [27, 47, 68, 238].
+# Infraestrutura  
+```
+A equipe de trabalho deverá estar preparada para a execução das atividades que exigirem a continuidade da prestação dos serviços do Tribunal, mantendo serviços, inovando em tecnologia e proporcionando a continuidade da disponibilidade do ambiente operacional tecnológico.
 
-##### 1.21 Seção de Segurança e Inovação Tecnológica
-- **Atribuições**:
-  - Implementar a Política de Segurança da Informação (PSI), gestão de identidades, controle de acessos lógicos e auditoria de vulnerabilidades [27, 38, 94, 244, 245].
-  - Operar os mecanismos de cibersegurança (firewalls, IDS/IPS, antimalware, proteção de nuvem) e gerenciar incidentes de segurança cibernética [27, 238, 244].
-  - Fomentar e testar soluções tecnológicas inovadoras em parceria com o NULAB e redes de Inovação Tecnológica do Poder Judiciário [186, 189, 241].
+```
 
-##### 1.22 Seção de Infraestrutura e Serviços
-- **Atribuições (Unificação de Provedor de Serviços e Engenharia de Hardware)**:
-  - Administrar os centros de processamento de dados (Data Center principal e redundante), ambientes de virtualização e infraestrutura de nuvem [27, 35, 239].
-  - Gerir os serviços corporativos de rede (DNS, DHCP, Active Directory, e-mail institucional, sistemas de arquivos e colaboração) [239, 240].
-  - Operar a rotina automatizada e testes periódicos de restauração de cópias de segurança (*backup* e *disaster recovery*) [93, 239].
-  - Gerenciar a manutenção preventiva e corretiva dos equipamentos de microinformática, servidores, nobreaks, ativos de rede e periféricos da Sede e Zonas Eleitorais [28, 96, 97].
-  - Controlar o ciclo de vida, ambiente de funcionamento, obsolescência e inventário técnico de todo o parque tecnológico [28, 34, 96].
-  - Emitir laudos técnicos de descarte e aceites de recebimento de novos equipamentos e ativos computacionais [95, 231, 243].
+. pesquisa e inovação:  
+    . de hardware do parque computacional;  
+    . de softwares básicos do parque computacional;  
+    . de infraestrutura de backup e replicação;
+. definição técnica dos equipamentos:  
+    . especificação técnica, testes e aceites de hardware do datacenter;  
+    . especificação técnica, testes e aceites de hardware de microinformática;  
+    . especificação técnica e aceite do ambiente físico do datacenter;  
+    . equipamentos servidores de serviços, de banco de dados, de conexão, de segurança cibernética;  
+. estudo da compatibilidade entre os harwares do datacenter;  
+. estudo da compatibilidade entre os softwares básicos: Sistema operacional, gestão backup, gestão firewall, gestão armazenamento, gestão da virtualização;  
+. manutenção do funcionamento físico dos ativos: servidores, switchs, roteadores, emuladores, racks conexão, estabilizadores, no-breaks, dentre outros;  
+. manutenção e sustentação de serviços: sistema operacioal, banco de dados, firewall, concentradores, distribuidores, dentre outros;  
+. planejamento, atualização e migração dos softwares e base dos serviços disponibilizados na rede:
+    . softwares básicos: Sistema operacional, server web, server Banco Dados, Monitor máquinas virtuais, gestão de backup, AD, Authelia, dentre outros;   
+    . softwares dos serviços de origem pública: SEI, FOG, GLPI, Archivemática, AtoM, SGRH, dentre outros;  
+    . softwares  
+. manutenção base de contas e  autenticação de usuários e serviços da acesso à rede;  
+. consultoria técnica e de integração dos serviços básicos implantados e disponibilizados na Instituição:  
+    . serviços controle de segurança e acesso físico predial;  
+    . serviços controle predial;  
+    . protocolos de atendimento e prestação de serviços corporativos;  
+. sustentação, manutenção regras de segurança cibernetica;  
+. sustentação, manutenção regras de acesso e autenticação;  
+. sustentação, manutenção regras de firewwall e roteamento;   
+. instalação de softwares corporativos 
+. suporte a microinformática;  
+. suporte ao usuário;  
+. gestão central de atendimento de serviços corporativos;  
 
-##### 1.23 Seção de Suporte aos Usuários
-- **Atribuições**:
-  - Operar a Central de Serviços (Helpdesk / Nível 1 e Nível 2) para atendimento a servidores, magistrados e cartórios eleitorais [28, 98, 243].
-  - Garantir o cumprimento dos prazos de atendimento (SLA) e administrar a base de conhecimento de soluções de problemas frequentes [24, 230, 243].
-  - Promover pesquisas periódicas de satisfação e experiência do usuário em serviços de TIC [23, 24].
 
----
+# Sistemas Corporativos  
+```
+A equipe deverá estar preparada para desenvolver soluções tecnológicas próprias, manter sistemas e bases de dados operacionais, realizar ajustes, correções e extração de dados que possam contribuir para a evolução da gfestão da informação.
+```
 
-### 1.3 Coordenadoria de Sistemas Corporativos
-- **Função Principal**: Engenharia, desenvolvimento, manutenção, sustentação, banco de dados e garantia de disponibilidade dos sistemas administrativos e finalísticos do Tribunal [27, 47, 68, 248, 249].
+. pesquisa e inovação para adoção na Instituição:   
+    . de softwares corporativos de parceiros;  
+    . de softwares corporativos de franquia comerciais;  
+    . de softwares corporativos de código livre;  
+. estudo, projeto e desenvolvimento de software corporativo;  
+. sustentação e manutenção de código de sistemas corporativos;  
+. sustentação e manutenção de bancos de dados corporativos;  
+. consultoria técnica e de integração de softwares a serem implantados e disponibilizados na Instituição;  
+. consultoria técnica e de integração para adoção e implantação de plataforma de deenvolvimento de softwares corporativos;  
 
-##### 1.31 Seção de Desenvolvimento de Sistemas
-- **Atribuições**:
-  - Realizar engenharia de requisitos, modelagem e codificação de novos sistemas e aplicações corporativas em conformidade com o ciclo de vida de desenvolvimento seguro [27, 102, 249].
-  - Garantir a acessibilidade (eMAG), portabilidade e responsividade das aplicações web e móveis [33].
-  - Adotar metodologias ágeis de desenvolvimento e manter o controle de versão e documentação de código-fonte [31, 32, 103, 250].
 
-##### 1.32 Seção de Sustentação e Manutenção Sistêmica
-- **Atribuições**:
-  - Prestar manutenção evolutiva, corretiva e adaptativa nos sistemas legados e soluções corporativas em uso [47, 102, 249].
-  - Avaliar, adaptar e homologar sistemas desenvolvidos por outros Tribunais ou pelo TSE antes da sua implantação local [33, 102, 249].
-  - Gerenciar a integração e interoperabilidade entre sistemas internos e plataformas nacionais do CNJ e TSE [20, 33, 249].
+# Gestão da Logística e da Eleição
 
-##### 1.33 Seção de Sustentação e Banco de Dados
-- **Atribuições**:
-  - Administrar, otimizar (tuning) e monitorar os Sistemas Gerenciadores de Bancos de Dados (SGBDs) relacionais e não-relacionais do Tribunal [93, 248].
-  - Definir e aplicar políticas de replicação, controle de acessos a dados e integridade do banco corporativo [93, 240, 248].
-  - Realizar procedimentos seguros de extração, transformação e carga de dados (ETL) e apoio à Assessoria de Inteligência de Dados [248].
-  - Gerir a sustentação do ambiente de produção, monitorando performance e disponibilidade dos sistemas [47, 249].
+```
+A equipe deverá estar preparada para operacionalizar as atividades relativas ao aceite, testes e instalação de máquinas e equipamentos de tecnologia, e, realizar a distribuição, controles e conferências de materiais envolvidos na execução e operacionalização dos sistemas eleitorais.
 
----
+```
 
-### 1.4 Coordenadoria de Gestão e Logística de Eleição
-- **Função Principal**: Unidade especializada encarregada do planejamento operacional, logística eleitoral, simulados, manutenção de urnas e condução dos sistemas de votação informatizada [47, 48].
-- **Integração e Enxugamento Funcional**: Absorve integralmente as competências da antiga AGEL (Art. 40 da Res. 1.808/2025), desfazendo o isolamento administrativo e reagrupando todas as atividades operacionais em 2 seções especializadas por afinidade [48, 213, 214].
+. manutenção e conservação de hardwares;  
+    . urnas;  
+    . acessórios;  
+    . tablet;  
+    . notebooks, dentre outros;  
+. gestão da instalação de equipamentos de microinformática;  
+. logistica:  
+    . aceite e testes de equipamentos: de microinformática, ou urna, ou acessórios, denre outros;   
+    . distribuição, armazenamento, manutenção preventiva;  
+        . controles de entrada e saída;
+        . controles de localização e uso;
+    . acionamento de garantias;  
+. gestão de sistemas eleitorais;   
+. gestão de testes e da programação de manutenção preventiva dos equipamentos;   
 
-##### 1.41 Seção de Logística, Manutenção e Simulados de Urnas
-- **Atribuições (Agrupamento por Afinidade Operacional e Física)**:
-  - Planejar, gerenciar e executar a logística de suprimentos, materiais de votação e contingência de urnas eletrônicas para as Zonas Eleitorais [47, 99, 105, 260].
-  - Coordenar em parceria com a COSEG/SETRAN a distribuição, transporte, armazenamento e recolhimento das urnas eletrônicas e suprimentos do pleito [106, 261, 272].
-  - Elaborar o dimensionamento físico, tabelas de distribuição e rotas logísticas das eleições oficiais e não-oficiais [99, 100, 260].
-  - Planejar e realizar as revisões periódicas, testes de mesa, manutenções preventivas e corretivas do parque de urnas eletrônicas [47, 48].
-  - Organizar e executar os **Simulados de Eleição, Testes de Carga, Testes de Confirmação e Testes de Integridade** do sistema de votação, avaliando a prontidão sistêmica e operacional [48, 100, 246].
-  - Gerenciar a preparação de urnas, geração de mídias de carga e votação, inseminação e lacre dos equipamentos [100, 246].
 
-##### 1.42 Seção de Sistemas e Tecnologia Eleitoral
-- **Atribuições (Agrupamento por Afinidade Sistêmica e Tecnológica)**:
-  - Operacionalizar, testar e prestar suporte especializado a todos os sistemas de eleição fornecidos pelo TSE (CAND, Horário Eleitoral, Totalização, Transmissão, Diplomação, Justifica, Oficialização, etc.) [47, 48, 246, 281].
-  - Capacitar os servidores dos Cartórios Eleitorais, Juntas Apuradoras e técnicos de apoio no uso dos sistemas de eleição e equipamentos de transmissão [246, 281].
-  - Executar os planos de transmissão de dados e divulgação dos resultados das eleições oficiais e suplementares em tempo real [91, 242, 246].
+# Comissão Permanente de Planejamento e Gestão do Pleito eleitoral
+```
+Será criada uma equipe multidisciplinar que conduzirá o planejamento e execução dos projetos ligados à execução do pleito eleitoral, seja de eleições oficiais ou comunitárias, conforme a legislação.  
+A missão é levantar, identificar e conduzir a execução do pleito eleitoral;  
+    - Levantar: regramento legal, condições a serem cumpridas e objetivo final do pleito;  
+    - Organizar: equipes de trabalho, cronogramas de execução; seleção de materiais e equipamentos;  
+    - Providenciar a aquisição, convênio, locação, convocação de pessoas, materiais, equipamentos e locais;  
+    - Processar e apresentar: resultados, dificuldades;  
+    - Propor melhorias e reflexão para adoção de inovações para o próximo pleito
+
+```
+
+. planejamento do pelito eleitoral;
+. definição de cronogramas: 
+    . reuniões, avaliações,  
+    . convocação de serventuários,  
+. seleção de equipes de trabalhos;  
+. requisição de máquinas e equipamentos;  
+. prestação de contas;  
+. consolidação e reflexão da execução do planejamento;  
+
+
