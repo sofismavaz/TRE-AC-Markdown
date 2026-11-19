@@ -254,9 +254,3 @@ A instrução da presente demanda e do processo de contratação pauta-se nos se
 ### RESPONSÁVEL PELA FORMALIZAÇÃO DA DEMANDA
 
 Rio Branco - AC, 26 de setembro de 2026.
-
-\  
-____________________________________________________  
-**Cleilton Nazaré Costa**  
-Secretário de Tecnologia da Informação — TRE-AC  
-*Gestor Responsável da Unidade Demandante*  

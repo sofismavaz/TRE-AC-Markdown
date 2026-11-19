@@ -55,7 +55,7 @@ line-height: 1.5;
 **Processo SEI nº:** 0002394-92.2026.6.01.8000 / 0000803-32.2025.6.01.8000 (PCA 2026)  
 **Unidade Solicitante:** Secretaria de Tecnologia da Informação (STI) / Secretaria de Administração, Orçamento e Finanças (SAOF)  
 **Destino:** Diretoria-Geral (GADG) / Presidência do Tribunal Regional Eleitoral do Acre (TRE-AC)  
-**Assunto:** Solicitação de alteração extemporânea do Plano de Contratações Anual de 2026 (PCA 2026) e adequação orçamentária via remanejamento de dotação para acobertar a contratação de Solução de Computação de Mesa Linha Corporativa (120 Desktops Dell Pro Slim e 07 Workstations Dell Pro Max com Monitores), conforme DFD v2 (`dfd_aquisicao_micros_tre_ac-v2.md`).
+**Assunto:** Solicitação de alteração extemporânea do Plano de Contratações Anual de 2026 (PCA 2026) e adequação orçamentária via remanejamento de dotação para acobertar a contratação de Solução de Computação de Mesa Linha Corporativa (120 Desktops Dell Pro Slim e 07 Workstations Dell Pro Max com Monitores), conforme DFD evento 0914788.
 
 
 ---

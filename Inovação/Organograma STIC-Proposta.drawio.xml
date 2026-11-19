@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="BXyQPXcFJEMIx4uQBpjd">
+    <mxGraphModel dx="2504" dy="949" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="N52cZFeCB7nli4y9mZH4-1" parent="1" style="swimlane;startSize=20;horizontal=1;containerType=tree;transparentBounds=1;groupPadding=20 120;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontSize=14;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontFamily=Verdana;" value="Secretaria de Tecnologia da Informação e Comunicação (STIC)" vertex="1">
+          <mxGeometry as="geometry" />
+        </mxCell>
+        <mxCell id="N52cZFeCB7nli4y9mZH4-2" edge="1" parent="N52cZFeCB7nli4y9mZH4-1" source="N52cZFeCB7nli4y9mZH4-4" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1;fontFamily=Verdana;" target="N52cZFeCB7nli4y9mZH4-5" value="">
+          <mxGeometry relative="1" x="-0.1346" as="geometry">
+            <Array as="points">
+              <mxPoint x="90" y="700" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N52cZFeCB7nli4y9mZH4-3" edge="1" parent="N52cZFeCB7nli4y9mZH4-1" source="N52cZFeCB7nli4y9mZH4-4" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;fontStyle=1;fontFamily=Verdana;" target="N52cZFeCB7nli4y9mZH4-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="1. Secretaria de Tecnologia da Informação e Comunicação&amp;nbsp;&lt;div&gt;(STIC) (CJ3)&lt;/div&gt;" treeRoot="1" id="N52cZFeCB7nli4y9mZH4-4">
+          <mxCell parent="N52cZFeCB7nli4y9mZH4-1" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#0050ef;fontColor=#ffffff;strokeColor=#001DBC;gradientColor=none;fontStyle=1;fontFamily=Verdana;" vertex="1">
+            <mxGeometry height="60" width="180" x="220" y="360" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="N52cZFeCB7nli4y9mZH4-5" parent="N52cZFeCB7nli4y9mZH4-1" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;fontFamily=Verdana;" value="1.2 Coordenadoria&lt;div&gt;&amp;nbsp;de Infraestrutura&amp;nbsp;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(CIE) (CJ2)&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="180" x="-223" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="N52cZFeCB7nli4y9mZH4-6" parent="N52cZFeCB7nli4y9mZH4-1" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#d5e8d4;strokeColor=#82b366;fontStyle=1;fontFamily=Verdana;" value="1.3 Coordenadoria de&amp;nbsp;&lt;div&gt;Soluções Corporativas&lt;div&gt;(CSCOR) (CJ2)&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="180" x="220" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="N52cZFeCB7nli4y9mZH4-7" edge="1" parent="N52cZFeCB7nli4y9mZH4-1" source="N52cZFeCB7nli4y9mZH4-4" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=horizontal;startArrow=none;endArrow=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=1;fontFamily=Verdana;" target="N52cZFeCB7nli4y9mZH4-8" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="310" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="1.01 Gabinete da Secretaria de TIC&amp;nbsp;&lt;div&gt;(GSTIC) (FC5)&lt;/div&gt;" treeRoot="1" id="N52cZFeCB7nli4y9mZH4-8">
+          <mxCell parent="N52cZFeCB7nli4y9mZH4-1" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontStyle=1;fontFamily=Verdana;" vertex="1">
+            <mxGeometry height="60" width="180" x="-20" y="430" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="N52cZFeCB7nli4y9mZH4-9" edge="1" parent="N52cZFeCB7nli4y9mZH4-1" source="N52cZFeCB7nli4y9mZH4-4" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=horizontal;startArrow=none;endArrow=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=1;fontFamily=Verdana;" target="N52cZFeCB7nli4y9mZH4-10" value="">
+          <mxGeometry relative="1" x="-0.0287" as="geometry">
+            <Array as="points">
+              <mxPoint x="310" y="470" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="1.02 Núcleo de Planejamento e Governança de TIC&lt;div&gt;(NPGTIC) (FC6)&lt;/div&gt;" treeRoot="1" id="N52cZFeCB7nli4y9mZH4-10">
+          <mxCell parent="N52cZFeCB7nli4y9mZH4-1" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1;fontFamily=Verdana;" vertex="1">
+            <mxGeometry height="60" width="180" x="478.5" y="520" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="1.021 Assistência Planejamento e Gestão&lt;div&gt;da Contratação&lt;div&gt;(PCTIC) (FC5)&lt;/div&gt;&lt;/div&gt;" treeRoot="1" id="N52cZFeCB7nli4y9mZH4-14">
+          <mxCell parent="N52cZFeCB7nli4y9mZH4-1" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontStyle=1;fontFamily=Verdana;" vertex="1">
+            <mxGeometry height="60" width="180" x="478.5" y="620" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="N52cZFeCB7nli4y9mZH4-15" edge="1" parent="N52cZFeCB7nli4y9mZH4-1" source="N52cZFeCB7nli4y9mZH4-10" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=1;fontFamily=Verdana;" target="N52cZFeCB7nli4y9mZH4-14" value="">
+          <mxGeometry relative="1" x="0.0353" as="geometry">
+            <mxPoint x="613.5" y="610" as="sourcePoint" />
+            <mxPoint x="718.5" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N52cZFeCB7nli4y9mZH4-17" parent="N52cZFeCB7nli4y9mZH4-1" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};strokeColor=#b85450;fontFamily=Verdana;fontSize=12;fillColor=#f8cecc;fontStyle=1" value="1.4 Coordenadoria de Operação Logística&lt;div&gt;e Gestão da Eleição&lt;div&gt;(CGLE) (CJ2)&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="180" x="650" y="790" as="geometry" />
+        </mxCell>
+        <mxCell id="N52cZFeCB7nli4y9mZH4-18" edge="1" parent="N52cZFeCB7nli4y9mZH4-1" source="N52cZFeCB7nli4y9mZH4-4" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=1;fontFamily=Verdana;" target="N52cZFeCB7nli4y9mZH4-17" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="700" />
+            </Array>
+            <mxPoint x="440" y="380" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WqDu-3ltVlfFaTKfdowd-1" edge="1" parent="N52cZFeCB7nli4y9mZH4-1" source="N52cZFeCB7nli4y9mZH4-5" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=1;fontFamily=Verdana;" target="WqDu-3ltVlfFaTKfdowd-2" value="">
+          <mxGeometry relative="1" x="0.0707" as="geometry">
+            <Array as="points">
+              <mxPoint x="-125.08" y="870" />
+            </Array>
+            <mxPoint x="157" y="510" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WqDu-3ltVlfFaTKfdowd-39" edge="1" parent="N52cZFeCB7nli4y9mZH4-1" source="WqDu-3ltVlfFaTKfdowd-6" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontStyle=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Verdana;" target="WqDu-3ltVlfFaTKfdowd-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WqDu-3ltVlfFaTKfdowd-2" parent="N52cZFeCB7nli4y9mZH4-1" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontFamily=Verdana;" value="1.21 Seção de&amp;nbsp;&lt;div&gt;Segurança Cibernética&amp;nbsp;&lt;/div&gt;&lt;div&gt;(SSEC) (FC6)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="180" x="-223" y="890" as="geometry" />
+        </mxCell>
+        <mxCell id="WqDu-3ltVlfFaTKfdowd-5" edge="1" parent="N52cZFeCB7nli4y9mZH4-1" source="N52cZFeCB7nli4y9mZH4-5" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1;fontFamily=Verdana;" target="WqDu-3ltVlfFaTKfdowd-6" value="">
+          <mxGeometry relative="1" x="-0.1346" as="geometry">
+            <Array as="points">
+              <mxPoint x="-13" y="750" />
+            </Array>
+            <mxPoint x="157" y="510" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WqDu-3ltVlfFaTKfdowd-6" parent="N52cZFeCB7nli4y9mZH4-1" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontFamily=Verdana;" value="1.22 Seção de Redes&amp;nbsp;&lt;div&gt;(SEREDE) (FC6)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="180" x="-223" y="980" as="geometry" />
+        </mxCell>
+        <mxCell id="WqDu-3ltVlfFaTKfdowd-7" edge="1" parent="N52cZFeCB7nli4y9mZH4-1" source="N52cZFeCB7nli4y9mZH4-5" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=1;fontFamily=Verdana;" target="WqDu-3ltVlfFaTKfdowd-8" value="">
+          <mxGeometry relative="1" x="-0.1346" as="geometry">
+            <Array as="points">
+              <mxPoint x="-13" y="750" />
+            </Array>
+            <mxPoint x="157" y="510" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WqDu-3ltVlfFaTKfdowd-8" parent="N52cZFeCB7nli4y9mZH4-1" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontFamily=Verdana;" value="1.23 Seção&amp;nbsp;&lt;div&gt;de Suporte aos&amp;nbsp;&lt;/div&gt;&lt;div&gt;Usuários (SSU) (FC6)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="180" x="-223" y="1060" as="geometry" />
+        </mxCell>
+        <mxCell id="WqDu-3ltVlfFaTKfdowd-11" edge="1" parent="N52cZFeCB7nli4y9mZH4-1" source="WqDu-3ltVlfFaTKfdowd-6" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontStyle=1;fontFamily=Verdana;" target="WqDu-3ltVlfFaTKfdowd-12" value="">
+          <mxGeometry relative="1" x="-0.1346" as="geometry">
+            <Array as="points" />
+            <mxPoint x="-43" y="820" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WqDu-3ltVlfFaTKfdowd-12" parent="N52cZFeCB7nli4y9mZH4-1" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontStyle=1;fontFamily=Verdana;" value="1.221 Assistência&lt;div&gt;&amp;nbsp;Seção de Redes&amp;nbsp;&lt;div&gt;(SEREDE) (FC4)&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="180" x="-420" y="980" as="geometry" />
+        </mxCell>
+        <mxCell id="WqDu-3ltVlfFaTKfdowd-13" edge="1" parent="N52cZFeCB7nli4y9mZH4-1" source="WqDu-3ltVlfFaTKfdowd-8" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Verdana;" target="WqDu-3ltVlfFaTKfdowd-14" value="">
+          <mxGeometry relative="1" x="-0.1346" as="geometry">
+            <Array as="points" />
+            <mxPoint x="-43" y="820" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WqDu-3ltVlfFaTKfdowd-14" parent="N52cZFeCB7nli4y9mZH4-1" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontStyle=1;fontFamily=Verdana;" value="1.231 Assistência&lt;div&gt;Seção&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;de Suporte aos&amp;nbsp;&lt;/span&gt;&lt;div&gt;Usuários (SSU) (FC4)&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="180" x="-420" y="1060" as="geometry" />
+        </mxCell>
+        <mxCell id="WqDu-3ltVlfFaTKfdowd-15" edge="1" parent="N52cZFeCB7nli4y9mZH4-1" source="N52cZFeCB7nli4y9mZH4-6" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;fontStyle=1;fontFamily=Verdana;" target="WqDu-3ltVlfFaTKfdowd-16" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="510" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WqDu-3ltVlfFaTKfdowd-16" parent="N52cZFeCB7nli4y9mZH4-1" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontFamily=Verdana;" value="1.31 Seção de&amp;nbsp;&lt;div&gt;Desenvolvimento de&lt;/div&gt;&lt;div&gt;Sistemas (SDSIS) (FC6)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="180" x="220" y="890" as="geometry" />
+        </mxCell>
+        <mxCell id="WqDu-3ltVlfFaTKfdowd-17" edge="1" parent="N52cZFeCB7nli4y9mZH4-1" source="N52cZFeCB7nli4y9mZH4-6" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1.011;entryY=0.662;entryDx=0;entryDy=0;entryPerimeter=0;fontStyle=1;fontFamily=Verdana;" target="WqDu-3ltVlfFaTKfdowd-18" value="">
+          <mxGeometry relative="1" x="0.48" as="geometry">
+            <Array as="points">
+              <mxPoint x="430" y="920" />
+            </Array>
+            <mxPoint x="310" y="510" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WqDu-3ltVlfFaTKfdowd-18" parent="N52cZFeCB7nli4y9mZH4-1" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontFamily=Verdana;" value="1.32 Seção de Gestão e Sustentação de Sistemas (SGSIS) (FC6)" vertex="1">
+          <mxGeometry height="60" width="180" x="220" y="980" as="geometry" />
+        </mxCell>
+        <mxCell id="WqDu-3ltVlfFaTKfdowd-19" edge="1" parent="N52cZFeCB7nli4y9mZH4-1" source="N52cZFeCB7nli4y9mZH4-6" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontStyle=1;fontFamily=Verdana;" target="WqDu-3ltVlfFaTKfdowd-20" value="">
+          <mxGeometry relative="1" x="0.3636" as="geometry">
+            <Array as="points">
+              <mxPoint x="430" y="1080" />
+            </Array>
+            <mxPoint x="310" y="510" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WqDu-3ltVlfFaTKfdowd-20" parent="N52cZFeCB7nli4y9mZH4-1" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1;fontFamily=Verdana;" value="1.33 Seção de Administração de Banco de Dados (SADB) (FC6)" vertex="1">
+          <mxGeometry height="60" width="180" x="220" y="1060" as="geometry" />
+        </mxCell>
+        <mxCell id="WqDu-3ltVlfFaTKfdowd-21" edge="1" parent="N52cZFeCB7nli4y9mZH4-1" source="WqDu-3ltVlfFaTKfdowd-16" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;fontStyle=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Verdana;" target="WqDu-3ltVlfFaTKfdowd-22" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="850" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WqDu-3ltVlfFaTKfdowd-22" parent="N52cZFeCB7nli4y9mZH4-1" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontStyle=1;fontFamily=Verdana;" value="1.311 Assistência Seção de&amp;nbsp;&lt;div&gt;Desenvolvimento de Sistemas (SDSIS) (FC4)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="180" x="20" y="890" as="geometry" />
+        </mxCell>
+        <mxCell id="WqDu-3ltVlfFaTKfdowd-23" edge="1" parent="N52cZFeCB7nli4y9mZH4-1" source="WqDu-3ltVlfFaTKfdowd-18" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1;fontFamily=Verdana;" target="WqDu-3ltVlfFaTKfdowd-24" value="">
+          <mxGeometry relative="1" x="0.48" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="1010" />
+            </Array>
+            <mxPoint x="400" y="820" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WqDu-3ltVlfFaTKfdowd-24" parent="N52cZFeCB7nli4y9mZH4-1" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontStyle=1;fontFamily=Verdana;" value="1.321 Assistência Seção de Gestão e Sustentação de Sistemas (SGSIS) (FC4)" vertex="1">
+          <mxGeometry height="60" width="180" x="20" y="980" as="geometry" />
+        </mxCell>
+        <mxCell id="WqDu-3ltVlfFaTKfdowd-25" edge="1" parent="N52cZFeCB7nli4y9mZH4-1" source="WqDu-3ltVlfFaTKfdowd-20" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1;fontFamily=Verdana;" target="WqDu-3ltVlfFaTKfdowd-26" value="">
+          <mxGeometry relative="1" x="-0.1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="1090" />
+            </Array>
+            <mxPoint x="400" y="820" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WqDu-3ltVlfFaTKfdowd-26" parent="N52cZFeCB7nli4y9mZH4-1" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontStyle=1;fontFamily=Verdana;" value="1.331 Assistência Seção de Administração de Banco de Dados (SADB) (FC4)" vertex="1">
+          <mxGeometry height="60" width="180" x="20" y="1060" as="geometry" />
+        </mxCell>
+        <mxCell id="WqDu-3ltVlfFaTKfdowd-27" edge="1" parent="N52cZFeCB7nli4y9mZH4-1" source="N52cZFeCB7nli4y9mZH4-17" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=1;fontFamily=Verdana;" target="WqDu-3ltVlfFaTKfdowd-28" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="740" y="890" />
+            </Array>
+            <mxPoint x="310" y="510" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WqDu-3ltVlfFaTKfdowd-28" parent="N52cZFeCB7nli4y9mZH4-1" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};strokeColor=#d6b656;fontFamily=Verdana;fontSize=12;fillColor=#fff2cc;fontStyle=1" value="1.41 Seção de Logística de Materiais, Equipamentos&amp;nbsp;&lt;div&gt;e Urnas (SLMEUE) (FC6)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="180" x="650" y="890" as="geometry" />
+        </mxCell>
+        <mxCell id="WqDu-3ltVlfFaTKfdowd-29" edge="1" parent="N52cZFeCB7nli4y9mZH4-1" source="N52cZFeCB7nli4y9mZH4-17" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontStyle=1;fontFamily=Verdana;" target="WqDu-3ltVlfFaTKfdowd-30" value="">
+          <mxGeometry relative="1" x="-0.2222" as="geometry">
+            <Array as="points">
+              <mxPoint x="870" y="930" />
+            </Array>
+            <mxPoint x="310" y="510" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WqDu-3ltVlfFaTKfdowd-30" parent="N52cZFeCB7nli4y9mZH4-1" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};strokeColor=#d6b656;fontFamily=Verdana;fontSize=12;fillColor=#fff2cc;fontStyle=1" value="1.42 Seção de Sistemas Eleitorais de&amp;nbsp;&lt;div&gt;Urnas (SSEUE) (FC6)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="180" x="649.9999999999995" y="980" as="geometry" />
+        </mxCell>
+        <mxCell id="WqDu-3ltVlfFaTKfdowd-33" edge="1" parent="N52cZFeCB7nli4y9mZH4-1" source="WqDu-3ltVlfFaTKfdowd-28" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontStyle=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Verdana;" target="WqDu-3ltVlfFaTKfdowd-34" value="">
+          <mxGeometry relative="1" x="-0.1667" as="geometry">
+            <Array as="points">
+              <mxPoint x="640" y="920" />
+            </Array>
+            <mxPoint x="740" y="850" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WqDu-3ltVlfFaTKfdowd-34" parent="N52cZFeCB7nli4y9mZH4-1" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};strokeColor=#666666;fontFamily=Verdana;fontSize=12;fontColor=#333333;fillColor=#f5f5f5;fontStyle=1" value="1.411 Assistência Seção de Logística de Materiais, Equipamentos&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;e&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Urnas (SLMEUE) (FC4)&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="180" x="450" y="890" as="geometry" />
+        </mxCell>
+        <mxCell id="WqDu-3ltVlfFaTKfdowd-35" edge="1" parent="N52cZFeCB7nli4y9mZH4-1" source="WqDu-3ltVlfFaTKfdowd-30" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontStyle=1;fontFamily=Verdana;" target="WqDu-3ltVlfFaTKfdowd-36" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="640" y="1010" />
+            </Array>
+            <mxPoint x="740" y="850" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WqDu-3ltVlfFaTKfdowd-36" parent="N52cZFeCB7nli4y9mZH4-1" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};strokeColor=#666666;fontFamily=Verdana;fontSize=12;fontColor=#333333;fillColor=#f5f5f5;fontStyle=1" value="1.421 Assistência Seção de Sistemas Eleitorais de&amp;nbsp;&lt;div&gt;Urnas (SSEUE) (FC4)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="180" x="449.99999999999955" y="980" as="geometry" />
+        </mxCell>
+        <UserObject label="1.03 Assessoria de Inteligência de Dados (ASID) (CJ1)" treeRoot="1" id="WqDu-3ltVlfFaTKfdowd-40">
+          <mxCell parent="N52cZFeCB7nli4y9mZH4-1" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1;fontFamily=Verdana;" vertex="1">
+            <mxGeometry height="60" width="180" x="-20" y="520" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="1.031 Assistência de Engenharia de Dados (ASID) (FC6)" treeRoot="1" id="WqDu-3ltVlfFaTKfdowd-42">
+          <mxCell parent="N52cZFeCB7nli4y9mZH4-1" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontStyle=1;fontFamily=Verdana;" vertex="1">
+            <mxGeometry height="60" width="180" x="-20" y="620" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="WqDu-3ltVlfFaTKfdowd-43" edge="1" parent="N52cZFeCB7nli4y9mZH4-1" source="WqDu-3ltVlfFaTKfdowd-40" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=1;fontFamily=Verdana;" target="WqDu-3ltVlfFaTKfdowd-42" value="">
+          <mxGeometry relative="1" x="0.0353" as="geometry">
+            <mxPoint x="115" y="610" as="sourcePoint" />
+            <mxPoint x="220" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WqDu-3ltVlfFaTKfdowd-45" edge="1" parent="N52cZFeCB7nli4y9mZH4-1" source="N52cZFeCB7nli4y9mZH4-4" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;elbow=horizontal;startArrow=none;endArrow=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=1;fontFamily=Verdana;" target="WqDu-3ltVlfFaTKfdowd-40" value="">
+          <mxGeometry relative="1" x="-0.0287" as="geometry">
+            <Array as="points">
+              <mxPoint x="310" y="470" />
+            </Array>
+            <mxPoint x="310" y="420" as="sourcePoint" />
+            <mxPoint x="515" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
